@@ -1,0 +1,17 @@
+companies
+    |
+    | company_id
+    |
+------------------------------------------------
+|       |        |        |        |           |
+P&L    BS       CF     Ratios   MarketCap   Prices
+|
+Documents
+|
+ProsCons
+|
+Analysis
+|
+Sectors
+|
+PeerGroups
