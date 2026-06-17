@@ -1,13 +1,16 @@
-Nifty 100 Financial Intelligence Platform
+# Nifty 100 Financial Intelligence Platform
 
-Primary Table:
-companies
+## Primary Table
 
-Primary Key:
-company_id
+**companies**
 
-Relationships:
+## Primary Key
 
+**company_id**
+
+## Database Relationships
+
+```text
 companies
 │
 ├── profitandloss
@@ -21,6 +24,10 @@ companies
 ├── peer_groups
 ├── analysis
 └── prosandcons
+```
 
-Common Key:
-company_id
+## Common Key
+
+All tables are connected using:
+
+**company_id**
