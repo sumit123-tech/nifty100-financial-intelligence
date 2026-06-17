@@ -1,17 +1,15 @@
 companies
-    |
-    | company_id
-    |
-------------------------------------------------
-|       |        |        |        |           |
-P&L    BS       CF     Ratios   MarketCap   Prices
-|
-Documents
-|
-ProsCons
-|
-Analysis
-|
-Sectors
-|
-PeerGroups
+│
+├── profitandloss
+├── balancesheet
+├── cashflow
+├── financial_ratios
+├── market_cap
+├── stock_prices
+├── sectors
+├── documents
+├── peer_groups
+├── analysis
+└── prosandcons
+
+Primary Key: company_id
