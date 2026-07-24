@@ -1,0 +1,56 @@
+company_id,from_pattern,to_pattern
+TCS,Reinvestor,Liquidating Assets
+ADANIENSOL,Cash Accumulator,Reinvestor
+ADANIPORTS,Mixed,Reinvestor
+ADANIPOWER,Mixed,Liquidating Assets
+AMBUJACEM,Reinvestor,Mixed
+APOLLOHOSP,Mixed,Reinvestor
+AGTL,Mixed,Reinvestor
+AXISBANK,Mixed,Growth Funded by Debt
+BAJAJFINSV,Distress Signal,Growth Funded by Debt
+BANKBARODA,Reinvestor,Growth Funded by Debt
+BEL,Unknown,Reinvestor
+BHEL,Mixed,Distress Signal
+BOSCHLTD,Reinvestor,Liquidating Assets
+CHOLAFIN,Distress Signal,Growth Funded by Debt
+CIPLA,Mixed,Reinvestor
+DLF,Liquidating Assets,Mixed
+DMART,Mixed,Reinvestor
+GAIL,Mixed,Reinvestor
+GRASIM,Mixed,Growth Funded by Debt
+HAL,Unknown,Reinvestor
+HDFCBANK,Growth Funded by Debt,Liquidating Assets
+HDFCLIFE,Pre-Revenue,Reinvestor
+HINDALCO,Mixed,Reinvestor
+HINDUNILVR,Liquidating Assets,Reinvestor
+ICICIGI,Mixed,Reinvestor
+INDIGO,Mixed,Reinvestor
+INDUSINDBK,Growth Funded by Debt,Pre-Revenue
+IOC,Mixed,Reinvestor
+IRFC,Distress Signal,Reinvestor
+ITC,Reinvestor,Liquidating Assets
+JIOFIN,Reinvestor,Unknown
+JSWENERGY,Reinvestor,Mixed
+LICI,Liquidating Assets,Reinvestor
+LT,Growth Funded by Debt,Liquidating Assets
+MOTHERSON,Reinvestor,Mixed
+NAUKRI,Reinvestor,Mixed
+NTPC,Mixed,Reinvestor
+PFC,Distress Signal,Growth Funded by Debt
+PNB,Pre-Revenue,Growth Funded by Debt
+POWERGRID,Mixed,Reinvestor
+RECLTD,Distress Signal,Growth Funded by Debt
+RELIANCE,Mixed,Reinvestor
+SIEMENS,Liquidating Assets,Reinvestor
+TATACONSUM,Cash Accumulator,Mixed
+TECHM,Mixed,Reinvestor
+TORNTPHARM,Mixed,Reinvestor
+TRENT,Mixed,Reinvestor
+TVSMOTOR,Reinvestor,Growth Funded by Debt
+ULTRACEMCO,Mixed,Reinvestor
+UNIONBANK,Growth Funded by Debt,Reinvestor
+UNITDSPR,Reinvestor,Liquidating Assets
+VEDL,Mixed,Reinvestor
+WIPRO,Reinvestor,Liquidating Assets
+ZOMATO,Distress Signal,Reinvestor
+ZYDUSLIFE,Mixed,Reinvestor

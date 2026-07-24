@@ -1,0 +1,116 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,Pro,PRO01,High ROE above 20%,90
+ABB,Con,CON03,Low Revenue Growth,80
+ADANIENSOL,Pro,PRO03,Strong Revenue CAGR above 15%,88
+ADANIENSOL,Con,CON01,High Debt Ratio,84
+ADANIENSOL,Con,CON02,Weak Return on Equity,82
+ADANIENT,Pro,PRO03,Strong Revenue CAGR above 15%,88
+ADANIENT,Con,CON02,Weak Return on Equity,82
+ADANIGREEN,Pro,PRO03,Strong Revenue CAGR above 15%,88
+ADANIGREEN,Con,CON01,High Debt Ratio,84
+ADANIPOWER,Pro,PRO01,High ROE above 20%,90
+ADANIPOWER,Pro,PRO03,Strong Revenue CAGR above 15%,88
+AMBUJACEM,Con,CON03,Low Revenue Growth,80
+ASIANPAINT,Pro,PRO01,High ROE above 20%,90
+ASIANPAINT,Con,CON03,Low Revenue Growth,80
+AXISBANK,Con,CON01,High Debt Ratio,84
+BAJAJ-AUTO,Pro,PRO01,High ROE above 20%,90
+BAJAJFINSV,Pro,PRO01,High ROE above 20%,90
+BAJAJFINSV,Pro,PRO03,Strong Revenue CAGR above 15%,88
+BAJAJFINSV,Con,CON01,High Debt Ratio,84
+BAJAJHLDNG,Pro,PRO03,Strong Revenue CAGR above 15%,88
+BAJFINANCE,Pro,PRO03,Strong Revenue CAGR above 15%,88
+BAJFINANCE,Con,CON01,High Debt Ratio,84
+BANKBARODA,Pro,PRO03,Strong Revenue CAGR above 15%,88
+BANKBARODA,Con,CON01,High Debt Ratio,84
+BEL,Pro,PRO01,High ROE above 20%,90
+BHARTIARTL,Con,CON01,High Debt Ratio,84
+BHEL,Con,CON02,Weak Return on Equity,82
+BHEL,Con,CON03,Low Revenue Growth,80
+BOSCHLTD,Pro,PRO01,High ROE above 20%,90
+BPCL,Pro,PRO01,High ROE above 20%,90
+BRITANNIA,Pro,PRO01,High ROE above 20%,90
+CANBK,Pro,PRO03,Strong Revenue CAGR above 15%,88
+CANBK,Con,CON01,High Debt Ratio,84
+CHOLAFIN,Pro,PRO03,Strong Revenue CAGR above 15%,88
+CHOLAFIN,Con,CON01,High Debt Ratio,84
+COALINDIA,Pro,PRO01,High ROE above 20%,90
+DLF,Con,CON02,Weak Return on Equity,82
+DLF,Con,CON03,Low Revenue Growth,80
+DMART,Pro,PRO03,Strong Revenue CAGR above 15%,88
+EICHERMOT,Pro,PRO01,High ROE above 20%,90
+GODREJCP,Con,CON02,Weak Return on Equity,82
+HAL,Pro,PRO01,High ROE above 20%,90
+HCLTECH,Pro,PRO01,High ROE above 20%,90
+HDFCBANK,Pro,PRO03,Strong Revenue CAGR above 15%,88
+HDFCBANK,Con,CON01,High Debt Ratio,84
+HDFCLIFE,Pro,PRO03,Strong Revenue CAGR above 15%,88
+HEROMOTOCO,Pro,PRO01,High ROE above 20%,90
+HEROMOTOCO,Con,CON03,Low Revenue Growth,80
+HINDALCO,Con,CON02,Weak Return on Equity,82
+HINDUNILVR,Pro,PRO01,High ROE above 20%,90
+ICICIBANK,Pro,PRO03,Strong Revenue CAGR above 15%,88
+ICICIBANK,Con,CON01,High Debt Ratio,84
+ICICIPRULI,Pro,PRO03,Strong Revenue CAGR above 15%,88
+ICICIPRULI,Con,CON02,Weak Return on Equity,82
+INDIGO,Pro,PRO01,High ROE above 20%,90
+INDIGO,Pro,PRO03,Strong Revenue CAGR above 15%,88
+INDUSINDBK,Pro,PRO03,Strong Revenue CAGR above 15%,88
+INDUSINDBK,Con,CON01,High Debt Ratio,84
+INFY,Pro,PRO01,High ROE above 20%,90
+IOC,Pro,PRO01,High ROE above 20%,90
+IRCTC,Pro,PRO01,High ROE above 20%,90
+IRCTC,Pro,PRO03,Strong Revenue CAGR above 15%,88
+IRFC,Pro,PRO03,Strong Revenue CAGR above 15%,88
+IRFC,Con,CON01,High Debt Ratio,84
+ITC,Pro,PRO01,High ROE above 20%,90
+JINDALSTEL,Con,CON03,Low Revenue Growth,80
+JIOFIN,Pro,PRO02,Debt Free Balance Sheet,95
+JIOFIN,Con,CON02,Weak Return on Equity,82
+JSWENERGY,Con,CON02,Weak Return on Equity,82
+JSWENERGY,Con,CON03,Low Revenue Growth,80
+JSWSTEEL,Pro,PRO03,Strong Revenue CAGR above 15%,88
+KOTAKBANK,Con,CON01,High Debt Ratio,84
+LICI,Pro,PRO01,High ROE above 20%,90
+LICI,Pro,PRO02,Debt Free Balance Sheet,95
+LODHA,Con,CON02,Weak Return on Equity,82
+LODHA,Con,CON03,Low Revenue Growth,80
+LT,Pro,PRO01,High ROE above 20%,90
+LTIM,Pro,PRO01,High ROE above 20%,90
+LTIM,Pro,PRO03,Strong Revenue CAGR above 15%,88
+NAUKRI,Pro,PRO03,Strong Revenue CAGR above 15%,88
+NAUKRI,Con,CON02,Weak Return on Equity,82
+NESTLEIND,Pro,PRO01,High ROE above 20%,90
+NHPC,Con,CON03,Low Revenue Growth,80
+PFC,Pro,PRO01,High ROE above 20%,90
+PFC,Con,CON01,High Debt Ratio,84
+PIDILITIND,Pro,PRO01,High ROE above 20%,90
+PNB,Pro,PRO01,High ROE above 20%,90
+PNB,Con,CON01,High Debt Ratio,84
+PNB,Con,CON03,Low Revenue Growth,80
+POWERGRID,Con,CON03,Low Revenue Growth,80
+RECLTD,Pro,PRO01,High ROE above 20%,90
+RECLTD,Con,CON01,High Debt Ratio,84
+RELIANCE,Con,CON02,Weak Return on Equity,82
+SBILIFE,Pro,PRO02,Debt Free Balance Sheet,95
+SBILIFE,Pro,PRO03,Strong Revenue CAGR above 15%,88
+SHREECEM,Con,CON02,Weak Return on Equity,82
+SHRIRAMFIN,Pro,PRO03,Strong Revenue CAGR above 15%,88
+SHRIRAMFIN,Con,CON01,High Debt Ratio,84
+TATACONSUM,Pro,PRO03,Strong Revenue CAGR above 15%,88
+TATACONSUM,Con,CON02,Weak Return on Equity,82
+TATAMOTORS,Pro,PRO01,High ROE above 20%,90
+TATAPOWER,Pro,PRO03,Strong Revenue CAGR above 15%,88
+TATASTEEL,Con,CON02,Weak Return on Equity,82
+TCS,Pro,PRO01,High ROE above 20%,90
+TECHM,Con,CON02,Weak Return on Equity,82
+TECHM,Con,CON03,Low Revenue Growth,80
+TITAN,Pro,PRO01,High ROE above 20%,90
+TITAN,Pro,PRO03,Strong Revenue CAGR above 15%,88
+TORNTPHARM,Pro,PRO01,High ROE above 20%,90
+TRENT,Pro,PRO01,High ROE above 20%,90
+TRENT,Pro,PRO03,Strong Revenue CAGR above 15%,88
+TVSMOTOR,Pro,PRO01,High ROE above 20%,90
+TVSMOTOR,Con,CON01,High Debt Ratio,84
+UNIONBANK,Pro,PRO03,Strong Revenue CAGR above 15%,88
+UNIONBANK,Con,CON01,High Debt Ratio,84
