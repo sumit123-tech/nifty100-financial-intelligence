@@ -1,23 +1,33 @@
-# Nifty 100 Financial Intelligence Platform
-
-A financial analytics platform built using Python, SQLite, Streamlit, and Plotly to analyze Nifty 100 companies.
+# Nifty100 Financial Intelligence Platform
 
 ## Features
-
-- Financial Statement Analysis
-- Ratio Analysis
-- Stock Screener
+- FastAPI REST API
+- Streamlit Dashboard
+- Financial Ratio Analysis
+- Company Screener
 - Peer Comparison
 - Sector Analysis
-- Company Reports
-- Interactive Dashboard
+- Capital Allocation
+- Cashflow Intelligence
+- Portfolio Analytics
+- PDF Tear Sheets
 
 ## Tech Stack
-
 - Python
-- Pandas
-- NumPy
-- SQLite
-- SQLAlchemy
+- FastAPI
 - Streamlit
+- SQLite
+- Pandas
 - Plotly
+
+## Project Structure
+
+## Installation
+
+## Run API
+
+## Run Dashboard
+
+## Sample API Endpoints
+
+## Screenshots
