@@ -1,101 +1,98 @@
-# 📈 Nifty100 Financial Intelligence Platform
+# 📊 Nifty100 Financial Intelligence Platform
 
-## Overview
-
-The Nifty100 Financial Intelligence Platform is an end-to-end financial analytics system built using Python.
-
-It provides financial ratio analysis, company profiling, peer comparison, stock screening, sector analytics, capital allocation insights, portfolio analytics, and automated PDF reports for Nifty 100 companies.
+A comprehensive Financial Intelligence Platform for Nifty100 companies built using Python, FastAPI, Streamlit, SQLite, and Machine Learning.
 
 ---
 
-## Features
+## 🚀 Features
 
-* REST API using FastAPI
-* Interactive Dashboard using Streamlit
-* Financial Ratio Analysis
-* Company Profile
-* Peer Comparison
-* Sector Analytics
-* Capital Allocation Analysis
-* Cashflow Intelligence
-* Portfolio Analytics
-* Financial Health Scoring
-* Automated PDF Tear Sheets
-* Stock Screening Engine
-* NLP-based Pros & Cons Generation
-
----
-
-## Tech Stack
-
-* Python
-* FastAPI
-* Streamlit
-* SQLite
-* Pandas
-* Plotly
-* NumPy
-* Git
-* GitHub
+- 📈 Financial Ratio Analysis
+- 🏢 Company Profiles
+- 💰 Cash Flow Analysis
+- 📊 Balance Sheet Analysis
+- 📉 Market Valuation
+- 🔍 Stock Screener
+- 🤝 Peer Comparison
+- 🧠 Company Clustering
+- 📄 PDF Tear Sheets
+- 📑 Sector Reports
+- 🌐 REST API
+- 🎨 Interactive Streamlit Dashboard
 
 ---
 
-## Project Structure
+## 🛠 Tech Stack
+
+- Python
+- FastAPI
+- Streamlit
+- SQLite
+- Pandas
+- NumPy
+- Scikit-Learn
+- Plotly
+- Matplotlib
+- YAML
+
+---
+
+## 📂 Project Structure
 
 ```
-config/
+src/
+ ├── api/
+ ├── dashboard/
+ ├── analytics/
+ ├── screener/
+ ├── reports/
+ └── nlp/
+
 database/
 output/
 reports/
 scripts/
-src/
 tests/
-README.md
-requirements.txt
 ```
 
 ---
 
-SQLite Database
-        │
-        ▼
-FastAPI Backend
-        │
-        ▼
-Streamlit Dashboard
-        │
-        ▼
-Financial Analytics
+## 📷 Dashboard
 
+Interactive dashboard built with Streamlit.
 
+Features include:
 
-## Installation
+- Company Search
+- Financial Ratios
+- Peer Analysis
+- Sector Analysis
+- Stock Screener
+- Capital Allocation
+- Reports
+
+---
+
+## ⚡ Run Locally
+
+Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/YOUR_USERNAME/nifty100_financial_intelligence.git
+```
 
-cd nifty100-financial-intelligence
+Install dependencies
 
+```bash
 pip install -r requirements.txt
 ```
 
----
-
-## Run FastAPI
+Run API
 
 ```bash
 uvicorn src.api.main:app --reload
 ```
 
-API Documentation
-
-```
-http://127.0.0.1:8000/docs
-```
-
----
-
-## Run Dashboard
+Run Dashboard
 
 ```bash
 streamlit run src/dashboard/app.py
@@ -103,36 +100,33 @@ streamlit run src/dashboard/app.py
 
 ---
 
-## Available Features
+## API Endpoints
 
-* Company Analysis
-* Financial Ratios
-* Balance Sheet
-* Cash Flow
-* Market Valuation
-* Sector Insights
-* Peer Comparison
-* Portfolio Analytics
-* Capital Allocation
-* Report Generation
-
----
-
-## Technologies Demonstrated
-
-* REST API Development
-* Data Engineering
-* Data Analytics
-* Financial Analysis
-* Dashboard Development
-* SQL
-* Automation
-* Reporting
+| Endpoint | Description |
+|-----------|-------------|
+| /companies | Company List |
+| /company/{ticker} | Company Details |
+| /ratios/{ticker} | Financial Ratios |
+| /cashflow/{ticker} | Cash Flow |
+| /balancesheet/{ticker} | Balance Sheet |
+| /valuation/{ticker} | Valuation |
+| /screen | Stock Screener |
 
 ---
 
-## Author
+## 📜 License
 
-Sumit Banerjee
+This project is licensed under the MIT License.
 
-B.Tech CSE | Data Analytics | Python | FastAPI | Streamlit
+---
+
+## 👨‍💻 Author
+
+**Sumit Banerjee**
+
+B.Tech CSE
+
+Data Analyst | Python | SQL | Power BI | Machine Learning
+
+GitHub:
+https://github.com/YOUR_USERNAME
