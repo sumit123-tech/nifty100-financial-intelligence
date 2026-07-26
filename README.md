@@ -56,6 +56,19 @@ requirements.txt
 
 ---
 
+SQLite Database
+        │
+        ▼
+FastAPI Backend
+        │
+        ▼
+Streamlit Dashboard
+        │
+        ▼
+Financial Analytics
+
+
+
 ## Installation
 
 ```bash
