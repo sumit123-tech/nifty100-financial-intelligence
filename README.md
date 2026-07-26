@@ -19,8 +19,27 @@ A comprehensive Financial Intelligence Platform for Nifty100 companies built usi
 - 🌐 REST API
 - 🎨 Interactive Streamlit Dashboard
 
----
+  
 
+---
+---
+## ✅ Project Deliverables
+
+- Financial Intelligence Database
+- Financial Ratios Engine
+- Stock Screener
+- Peer Comparison
+- Streamlit Dashboard (8 Pages)
+- FastAPI (16 Endpoints)
+- Cashflow Intelligence
+- NLP Pros & Cons Generator
+- Portfolio Analytics
+- 92 Company Tear Sheets
+- 11 Sector Reports
+- Portfolio Summary
+- Pytest Report
+
+---
 ## 🛠 Tech Stack
 
 - Python
@@ -69,6 +88,11 @@ Features include:
 - Stock Screener
 - Capital Allocation
 - Reports
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![SQLite](https://img.shields.io/badge/SQLite-Database-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
@@ -77,7 +101,7 @@ Features include:
 Clone the repository
 
 ```bash
-git clone https://github.com/sumit123-tech/nifty100_financial_intelligence.git
+git clone https://github.com/sumit123-tech/nifty100-financial-intelligence.git
 ```
 
 Install dependencies
