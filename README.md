@@ -77,7 +77,7 @@ Features include:
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nifty100_financial_intelligence.git
+git clone https://github.com/sumit123-tech/nifty100_financial_intelligence.git
 ```
 
 Install dependencies
@@ -129,4 +129,4 @@ B.Tech CSE
 Data Analyst | Python | SQL | Power BI | Machine Learning
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/sumit123-tech
